@@ -6,4 +6,4 @@ def solution(arr, divisor):
     answer.sort()
      
     
-    return answer
+    return answer 
